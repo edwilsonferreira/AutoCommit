@@ -23,7 +23,7 @@ Um script inteligente para automatizar a geração de mensagens de commit no Git
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/auto-commit-script.git
+git clone https://github.com/edwilsonferreira/auto-commit-script.git
 cd auto-commit-script
 
 # Execute o script de configuração
